@@ -1,6 +1,5 @@
 # Content Management System Enumeration Toolkit (CMSET)
-## by mclovintime, Anno Domini 2023
-#### I love you
+## by mclovintime, 2023
 
 ### Prerequisites
 
